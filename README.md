@@ -7,7 +7,7 @@ Online Retail II: Loja de vendas online sediada no Reino Unido.
 
 Com a necessidade de aumentar o faturamento das vendas online, a Tarefa desenvolvida nesse projeto foi análisar o comportamento dos clientes e desenvolver um sistema de recomendação. O Algoritmo sugeri combinação de produtos dentro das cestas de compras dos clientes analisados. Através dessas informações pode-se criar Campanhas e Técnicas de Vendas: Cross Selling / Descontos.
 
-Clustering foi Selecionar os clientes mais valiosos para formar o programa de fidelidade.
+Clustering foi Selecionado os clientes mais valiosos para formar o programa de fidelidade.
 
 ## Business Assumptions:
 As seguintes suposições foram feitas sobre o problema de negócio:
