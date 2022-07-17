@@ -7,12 +7,13 @@ Online Retail II: Loja de vendas online sediada no Reino Unido.
 
 Com a necessidade de aumentar o faturamento das vendas online, a Tarefa desenvolvida nesse projeto foi análisar o comportamento dos clientes e desenvolver um sistema de recomendação. O Algoritmo sugeri combinação de produtos dentro das cestas de compras dos clientes analisados. Através dessas informações pode-se criar Campanhas e Técnicas de Vendas: Cross Selling / Descontos.
 
+Clustering foi Selecionar os clientes mais valiosos para formar o programa de fidelidade.
+
 ## Business Assumptions:
 As seguintes suposições foram feitas sobre o problema de negócio:
 - Colunas com dados NA foram removidas
 - Só foram consideradas entradas em que o valores de **Price** fossem superiores a 0.
 - Os dados de Customers com comportamento fora do padrão foi descartado -> Outlier
-
 
 ## Descrições das Variáveis:
     • InvoiceNo: Invoice Number -> operação 
@@ -22,13 +23,11 @@ As seguintes suposições foram feitas sobre o problema de negócio:
     • Preço unitário
     • CustomerID: número de cliente exclusivo
     • País
-    
-    
 
-## Machine learning modeling
-* Apriori
+## Machine learning modeling:
 
-
+- Recommender system: Apriori
+- Clustering: K-Means 
 
 ## Demonstração do Sistema de Recomendação:
 <div align="">
