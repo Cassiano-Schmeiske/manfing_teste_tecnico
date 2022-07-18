@@ -16,7 +16,7 @@ As seguintes suposições foram feitas sobre o problema de negócio:
 - Os dados de Customers com comportamento fora do padrão foi descartado -> Outlier
 
 ## Descrições das Variáveis:
-    • InvoiceNo: Invoice Number -> operação 
+    • BillNo: -> operação 
     • ItemName: Nome do produto
     • Quantidade: Quantidade de produtos -> quantos produtos das faturas foram vendidos.
     • Data da fatura
